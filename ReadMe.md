@@ -3,8 +3,6 @@
 
 Resume coming soon.
 
-<!- !See [kbroman.org](http://kbroman.org). ->
-
 ---
 
 My parts of this web site are licensed under
