@@ -15,7 +15,8 @@ More information coming soon.
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/kslattery">github</a></li>
-          <li><a href="https://twitter.com/kslattery">@kslattery</a></li>
+          <li><a href="https://twitter.com/kslattery">twitter</a></li>
+          <li><a href="https://www.facebook.com/kslattery">facebook</a></li>
       </ul>
   </div>
 </div>
