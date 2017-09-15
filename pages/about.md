@@ -27,7 +27,7 @@ Kevin Slattery is a developer in Kansas City.
 
         <div class="span2">
         <a href="../assets/pics/slattery.jpg">
-            <img src="../assets/pics/slattery_small.jpg"
+            <img src="../assets/pics/slattery.jpg"
                   title="Kevin Slattery" alt="Kevin Slattery"/></a>
         </div>
     </div>
