@@ -11,4 +11,23 @@ I am a C/C++ programmer in Kansas City, MO. I've worked on interfacing to medica
 
 More information coming soon.
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/slattery_resume.pdf">cv</a></li>
+          <li><a href="https://github.com/kslattery">github</a></li>
+[//]: # (          <li><a href="http://kslattery.org/blog">blog</a></li> )
+          <li><a href="https://twitter.com/kslattery">@kslattery</a></li>
+      </ul>
+  </div>
+</div>
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+[//]: # (          <li><a href="morefigs.html">see more figures</a></li> )
+      </ul>
+  </div>
+</div>
+
 
