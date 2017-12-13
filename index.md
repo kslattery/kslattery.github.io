@@ -20,6 +20,6 @@ I am a C/C++ programmer in Kansas City, MO. I've worked on interfacing to medica
   </div>
 </div>
 
-<li><a href="{{ BASE_PATH }}/pages/slattery_resume.html">resume</a></li>
+[//]: # (     <li><a href="{{ BASE_PATH }}/pages/slattery_resume.html">resume</a></li> )
 [//]: # (     <li><a href="http://kslattery.org/blog">blog</a></li> )
 
