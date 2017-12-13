@@ -14,6 +14,7 @@ More information coming soon.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/pages/slattery_resume.html">résumé</a></li>
           <li><a href="https://github.com/kslattery">github</a></li>
           <li><a href="https://twitter.com/kslattery">twitter</a></li>
           <li><a href="https://www.facebook.com/kslattery">facebook</a></li>
@@ -21,6 +22,6 @@ More information coming soon.
   </div>
 </div>
 
-[//]: # (          <li><a href="{{ BASE_PATH }}/assets/slattery_resume.pdf">résumé</a></li> )
+<li><a href="{{ BASE_PATH }}/pages/slattery_resume.html">résumé</a></li>
 [//]: # (     <li><a href="http://kslattery.org/blog">blog</a></li> )
 
