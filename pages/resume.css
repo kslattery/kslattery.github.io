@@ -52,7 +52,7 @@ p.enlarge span { color: #000 }
 .job .image { float: right; margin: 5px 0 0 15px }
 .job .image img { border: solid 1px #ccc; width: 70px }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
-.job p { margin: 0.75em 0 3em 0; }
+.job p { margin: 0.75em 0 1em 0; }
 .last { border: none; }
 .skills-list {  }
 .skills-list ul { margin: 0; }
